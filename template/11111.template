@@ -1,0 +1,6 @@
+telnet proxyhost
+"${HOST_NATIP}"
+"${PROXY_USER}"
+"${PROXY_PASSWORD}"
+"${HOST_USER}"
+"${HOST_PASSWORD}"
